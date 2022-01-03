@@ -40,3 +40,14 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
 17.                      ![image](https://user-images.githubusercontent.com/93262817/147735867-99d69b5d-8219-4802-9aed-f9179ac03782.png)
 18.   and after runnig the code we get this kind of graph 
 19.                      ![image](https://user-images.githubusercontent.com/93262817/147736141-1d5cce0d-604e-40e2-a5dd-e29c12535953.png)
+
+
+vlsu ![image](https://user-images.githubusercontent.com/93262817/147925332-6ea85317-a5c2-4f15-b8dd-7dadebf1d3fd.png)
+
+
+
+
+
+
+
+
