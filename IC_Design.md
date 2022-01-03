@@ -31,16 +31,16 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
    to get vcd file which is for graph and $dumpvars to take module next we give input values and $monitor to view output of the programe and endmodule to end the code 
 9. we various tools to run and check the programe we use a simple tool called edaplayground tool 
 10. Which looks like as the below picture 
-11.                ![image](https://user-images.githubusercontent.com/93262817/147925829-a9ffc105-2c13-454c-8a68-0e4cc0cbb68d.png)
+                ![image](https://user-images.githubusercontent.com/93262817/147925829-a9ffc105-2c13-454c-8a68-0e4cc0cbb68d.png)
 12.  In this image we can see the design in the we write design code and we write testbench in left side 
 13.  we give a name to it here in the imge we can see 
-14.                      ![image](https://user-images.githubusercontent.com/93262817/147925930-f17f685c-540f-4ecf-9578-c6cb86189e90.png)
+                      ![image](https://user-images.githubusercontent.com/93262817/147925930-f17f685c-540f-4ecf-9578-c6cb86189e90.png)
 
 15.   we select the tools from here like icorus and yosys tools 
-16.                      ![image](https://user-images.githubusercontent.com/93262817/147735781-57ccad3d-5125-40b0-bff0-f283aac35770.png)
-17.                      ![image](https://user-images.githubusercontent.com/93262817/147735867-99d69b5d-8219-4802-9aed-f9179ac03782.png)
+                      ![image](https://user-images.githubusercontent.com/93262817/147735781-57ccad3d-5125-40b0-bff0-f283aac35770.png)
+                     ![image](https://user-images.githubusercontent.com/93262817/147735867-99d69b5d-8219-4802-9aed-f9179ac03782.png)
 18.   and after runnig the code we get this kind of graph 
-19.                 ![image](https://user-images.githubusercontent.com/93262817/147926136-ef27bd68-ffa3-4ac4-961c-a1edc617d56f.png)
+                 ![image](https://user-images.githubusercontent.com/93262817/147926136-ef27bd68-ffa3-4ac4-961c-a1edc617d56f.png)
 
 
 
