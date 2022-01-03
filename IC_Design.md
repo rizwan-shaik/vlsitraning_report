@@ -1,3 +1,5 @@
+                                             IN EDAPLAYGROUND TOOL 
+
 1. IC (integrated circuit),An integrated circuit or monolithic integrated circuit  is a set of electronic circuits on one small flat piece (or "chip")
 of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integrate into a small chip.
 2. To design an IC we need to develop a code(programe),for this code we use verilog language which is HDL(Hard Description Language).
@@ -46,10 +48,34 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
 18.   and after runnig the code we get this kind of graph in (fig 5) 
                         ![image](https://user-images.githubusercontent.com/93262817/147926824-d7208297-ea09-4a66-8222-b638c55c15a2.png)
                                          (fig 5) 
+ 
+                                       IN LINEX SOFTWARE 
+      
+ 1. We are familiear with (ms) microsoft software and we use it daily but in linux it is different,we use different softwares to write programes or codes 
+    to design a IC in microsoft 
+ 2. In linux it does not need any softwares it self it consists of teminals in which we write codes 
+ 3. lets se the linux 
+ 4. This is how a linux looks (fig 1)  
+             ![image](https://user-images.githubusercontent.com/93262817/147928922-ee3a826b-215f-403b-bfa4-815bd0c19b78.png)
+ 5. when we click write click on the desktop we get many options like (fig 2)
+             
 
-
-
-
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
 
 
 
