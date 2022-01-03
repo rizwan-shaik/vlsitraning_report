@@ -43,10 +43,7 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
 19.                      ![image](https://user-images.githubusercontent.com/93262817/147736141-1d5cce0d-604e-40e2-a5dd-e29c12535953.png)
 
 
-vlsu ![image](https://user-images.githubusercontent.com/93262817/147925332-6ea85317-a5c2-4f15-b8dd-7dadebf1d3fd.png)
-
-
-          ![image](https://user-images.githubusercontent.com/93262817/147925979-d0ef8a6b-52d6-4ce8-8658-0fcdc858d2fc.png)
+        vlsi ![image](https://user-images.githubusercontent.com/93262817/147926070-2c752da2-2dfc-466a-b993-dd0ccc682393.png)
 
 
 
