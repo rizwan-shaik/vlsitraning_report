@@ -34,7 +34,8 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
 11.                ![image](https://user-images.githubusercontent.com/93262817/147925829-a9ffc105-2c13-454c-8a68-0e4cc0cbb68d.png)
 12.  In this image we can see the design in the we write design code and we write testbench in left side 
 13.  we give a name to it here in the imge we can see 
-14.                      ![image](https://user-images.githubusercontent.com/93262817/147735707-6c319139-82ec-441e-9c7a-1342faf25003.png)
+14.                      ![image](https://user-images.githubusercontent.com/93262817/147925930-f17f685c-540f-4ecf-9578-c6cb86189e90.png)
+
 15.   we select the tools from here like icorus and yosys tools 
 16.                      ![image](https://user-images.githubusercontent.com/93262817/147735781-57ccad3d-5125-40b0-bff0-f283aac35770.png)
 17.                      ![image](https://user-images.githubusercontent.com/93262817/147735867-99d69b5d-8219-4802-9aed-f9179ac03782.png)
