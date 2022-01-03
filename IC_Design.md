@@ -59,6 +59,8 @@ of semiconductor material, usually silicon.Large numbers of tiny MOSFETs integra
              ![image](https://user-images.githubusercontent.com/93262817/147928922-ee3a826b-215f-403b-bfa4-815bd0c19b78.png)
  5. when we click write click on the desktop we get many options like (fig 2)
                            ![image](https://user-images.githubusercontent.com/93262817/147930629-8a882b2c-f812-4d94-96fe-2e88dcbb0371.png)
+                                 (fig 2)
+ 6.  
 
              
 
